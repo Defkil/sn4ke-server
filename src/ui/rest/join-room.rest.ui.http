@@ -1,0 +1,11 @@
+### Create room as player
+POST http://localhost:3000/join-room
+Content-Type: application/json
+
+{
+  "name": "asdasda",
+  "isPlayer": true,
+  "roomName": "8BD"
+}
+
+

@@ -1,0 +1,29 @@
+syntax = "proto3";
+package snake;
+
+message ConnectionSuccess {
+	string name = 1;
+}
+
+message Score {
+	int32 score = 1;
+	string name = 3;
+}
+
+message Scores {
+	repeated Score scores = 1;
+}
+
+message Player {
+	string name = 1;
+	int32 colorId = 2;
+}
+
+message Players {
+	repeated Player players = 1;
+}
+
+message JoinData {
+	repeated Player players = 1;
+	repeated Score scores = 2;
+}

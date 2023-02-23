@@ -1,0 +1,9 @@
+{
+  "NICKNAME": {
+	"MAX_LENGTH": 20,
+	"MIN_LENGTH": 3
+  },
+  "ROOM": {
+	"LENGTH": 3
+  }
+}

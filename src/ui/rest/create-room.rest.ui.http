@@ -1,0 +1,10 @@
+### Create room as player
+POST http://localhost:3000/create-room
+Content-Type: application/json
+
+{
+  "isPlayer": true,
+  "name": "Snake"
+}
+
+

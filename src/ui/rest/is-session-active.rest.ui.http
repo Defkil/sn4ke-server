@@ -1,0 +1,10 @@
+### Create room as player
+POST http://localhost:3000/is-session-active
+Content-Type: application/json
+
+{
+  "roomCode": "616",
+  "userToken": "37399f1d-b943-4895-aa94-286a54103531"
+}
+
+
