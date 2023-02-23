@@ -1,7 +1,8 @@
 # Sn4ke
 > A simple multiplayer snake game
 >
-> [![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://sn4ke.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://sn4ke.app)
+[![Frontend Repo](https://img.shields.io/badge/Repository-Angular_Frontend-blue)](https://github.com/Defkil/snake-client)
 
 Server is programmed to be run on passanger over plesk hosted on netcup.
 
